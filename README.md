@@ -104,8 +104,6 @@ npm run server
 }
 ```
 
-![image](https://github.com)
-
 ### For microsoft azur's OAuth2.0:
 
 - `https://reachinbox-assignment-4rf9.onrender.com/outlook/signin` - GET for micosoft azur authentication for outlook
