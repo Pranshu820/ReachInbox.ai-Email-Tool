@@ -4,7 +4,8 @@
 
 The ReachInBox Assignment is a server-side application built using Node.js and Express.js. Its primary goal is to facilitate email parsing and management for Google and Outlook accounts. The application leverages advanced AI functionalities from OpenAI, integrates with Google APIs for Gmail services, and utilizes Microsoft Graph API for Outlook integration. Task scheduling is handled efficiently using BullMQ.
 
-![Application Screenshot](https://github.com)
+![image](https://github.com/Pranshu820/ReachInbox.ai-Email-Tool/assets/75555961/435302e3-77ba-4269-bb90-9338ba672c50)
+
 
 ## Deployment Links
 
