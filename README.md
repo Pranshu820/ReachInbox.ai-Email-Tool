@@ -1,28 +1,27 @@
 # ReachInBox Assignment
 
-## Server
-The assignment is to build a tool that will parse and check the emails in a Google and Outlook email ID, and
-respond to the e-mails based on the context using AI. Use BullMQ as the tasks scheduler
-This is a server-based application built with Node.js and Express. It uses various packages such as  `openai` for AI functionalities, `googleapis` for Google APIs, and `axios` for HTTP requests and `bullMQ` to process queues.
-![image](https://github.com/shraddha-gawde/reachInbox-assignment/assets/101090200/0237adc4-c817-4d79-9b09-fc0b27f34e6e)
+## Project Overview
 
+The ReachInBox Assignment is a server-side application built using Node.js and Express.js. Its primary goal is to facilitate email parsing and management for Google and Outlook accounts. The application leverages advanced AI functionalities from OpenAI, integrates with Google APIs for Gmail services, and utilizes Microsoft Graph API for Outlook integration. Task scheduling is handled efficiently using BullMQ.
 
-## deployed links :
-frontend : [Link](https://reach-inbox-assignment.vercel.app/)
-<br>
-Backend : [Link](https://reachinbox-assignment-4rf9.onrender.com)
-<br>
-API documentation build with postman documentation - [Link](https://documenter.getpostman.com/view/31971527/2sA35D43FE)
+![Application Screenshot](https://github.com/shraddha-gawde/reachInbox-assignment/assets/101090200/0237adc4-c817-4d79-9b09-fc0b27f34e6e)
 
+## Deployment Links
 
+- **Frontend:** [ReachInBox Assignment Frontend](https://reach-inbox-assignment.vercel.app/)
+- **Backend:** [ReachInBox Assignment Backend](https://reachinbox-assignment-4rf9.onrender.com)
+- **API Documentation (Postman):** [API Documentation](https://documenter.getpostman.com/view/31971527/2sA35D43FE)
 
-# technologies used:
+## Technologies Used
+
 - Node.js
 - Express.js
 - OpenAI
 - Google APIs
 - Microsoft Graph API
-# npm packages used
+
+## npm Packages Used
+
 - dotenv
 - Axios
 - bullMQ
@@ -30,6 +29,16 @@ API documentation build with postman documentation - [Link](https://documenter.g
 - ioredis
 - @microsoft/microsoft-graph-client
 - @azure/msal-node
+
+## Installation and Setup
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/shraddha-gawde/reachInbox-assignment.git
+   cd reachInbox-assignment/server
+
+
+
 
 <br>
 
